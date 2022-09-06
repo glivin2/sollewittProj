@@ -1,2 +1,2 @@
 # sollewittProj
-This is my mini project 1
+Here im writing new instructions.
